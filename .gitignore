@@ -1,0 +1,4 @@
+/venv
+*.sqlite3
+/unirag/chroma_db
+/unirag/__pycache__
